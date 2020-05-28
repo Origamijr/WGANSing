@@ -1,0 +1,8 @@
+venv/
+log/
+settings.json
+datasets/
+ss_synthesis/
+val_dir_synth/
+__pycache__/
+.ipynb_checkpoints/
